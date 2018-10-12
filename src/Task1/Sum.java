@@ -7,7 +7,7 @@ public class Sum {
 			int a = Integer.parseInt(el.getElMas(i));
 			b = b+a;
 		}
-		System.out.println("ñóììà =  " + b);
+		System.out.println("Ğ¡ÑƒĞ¼Ğ¼Ğ° =  " + b);
 	}
 	
 }
