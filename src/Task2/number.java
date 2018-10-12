@@ -12,6 +12,6 @@ public class number {
 			if (cc > max_numb)
 				max_numb = cc;		
 		}
-		System.out.println("max цифра " + max_numb);  
+		System.out.println("max С†РёС„СЂР° " + max_numb);  
 	}
 }
