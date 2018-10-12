@@ -7,7 +7,7 @@ public class randomize {
 	private int max = 1000;
 	public int rand(){
 		int a = rand.nextInt(max-min)+min;
-		System.out.println("×èñëî "+	 a);  
+		System.out.println("Ğ§Ğ¸ÑĞ»Ğ¾ "+	 a);  
 		return a ;
 	}
 }
