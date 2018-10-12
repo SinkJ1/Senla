@@ -35,7 +35,7 @@ public class Program {
 		}
 		
 
-		System.out.println("Общая длительность " + duration + " ," +"Общий жанр музыки - " + str);
+		System.out.println("РћР±С‰Р°СЏ РґР»РёС‚РµР»СЊРЅРѕСЃС‚СЊ " + duration + " ," +"РћР±С‰РёР№ Р¶Р°РЅСЂ РјСѓР·С‹РєРё - " + str);
 	}
 }
 
