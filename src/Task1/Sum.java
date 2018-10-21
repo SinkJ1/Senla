@@ -1,13 +1,11 @@
 package Task1;
 
 public class Sum {	
-	public static void sum(ElMas el) {
-		int b = 0;
-		for(int i = 0;i<el.getlength();i++){
-			int a = Integer.parseInt(el.getElMas(i));
-			b = b+a;
+	public static int sum(StringArrayWrapper ArrWrapper) {
+		int sum = 0;
+		for(int i = 0; i < ArrWrapper.getlength(); i++){
+			sum += Integer.parseInt(ArrWrapper.getArr(i));
 		}
-		System.out.println("Сумма =  " + b);
-	}
-	
+		return sum;
+	}	
 }
