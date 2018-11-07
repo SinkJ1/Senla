@@ -1,0 +1,6 @@
+1;agsd;12;asf;false
+2;fgsd;12;asf;false
+3;Petja;12;asf;false
+4;tgsd;12;asf;false
+5;vgsd;12;asf;false
+6;vanja;34;grogno;true
